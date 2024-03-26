@@ -1,0 +1,11 @@
+server.js > routes > controllers > models > databank (db)
+
+''''''''''''''' req.body ''''''''''
+{
+  "nome": "Gustavo Amaro",
+  "email": "gustavoalima188@gmail.com",
+  "telefone": "44991782156",
+  "nascimento": "1992-12-25",
+  "cpf": "02585698758",
+  "status": "ACTIVE"
+}
